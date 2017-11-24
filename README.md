@@ -4,5 +4,5 @@ Send SMS with node js app
 # Installing dependencies
 npm install
 
-# Runing
+# Running
 npm start
